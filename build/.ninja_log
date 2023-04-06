@@ -1684,3 +1684,5 @@
 47676	47743	0	C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/esp-idf/esptool_py/CMakeFiles/app_check_size	5648ef523632e6d8
 47744	70308	0	CMakeFiles/flash	1df3ebc450561485
 47744	70308	0	C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/CMakeFiles/flash	1df3ebc450561485
+1	81225	0	CMakeFiles/menuconfig	edebf6c2898b86ec
+1	81225	0	C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/CMakeFiles/menuconfig	edebf6c2898b86ec
