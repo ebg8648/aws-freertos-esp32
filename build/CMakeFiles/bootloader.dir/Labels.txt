@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/CMakeFiles/bootloader
+C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/CMakeFiles/bootloader.rule
+C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/CMakeFiles/bootloader-complete.rule
+C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/esp-mqtt/esp-aws-iot/examples/mqtt/tls_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
